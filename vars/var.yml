@@ -1,0 +1,5 @@
+wordpress_docker:
+  mysql_version: 5.7
+  mysql_root_password: mysql_root_password
+  mysql_wordpress_password: wordpress
+  wordpress_version: latest
